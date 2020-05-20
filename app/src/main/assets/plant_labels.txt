@@ -1,0 +1,15 @@
+Corn maize common rust
+Corn maize northern leaf blight
+Corn maize healthy
+Pepper bell bacterial spot
+Pepper bell healthy
+Potato early blight
+Potato late blight
+Potato healthy
+Tomato bacterial spot
+Tomato early blight
+Tomato late blight
+Tomato yellow leaf curl
+Tomato septoria leaf spot
+Tomato spider mites
+Tomato healthy
