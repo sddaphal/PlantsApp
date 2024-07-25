@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">Plants Detection</string>
+    <string name="app_name">Sugarcane Disease Classification</string>
     <string name="buttonSelectPhoto">Select Photo</string>
     <string name="buttonTakePhoto">Start Camera</string>
-    <string name="buttonDiagnose">Detect</string>
+    <string name="buttonDiagnose">Classify</string>
     <string name="defaultImage">Default image set now...</string>
     <string name="descriptionImage">View for displaying image</string>
     <string name="textView">Please upload your picture through the camera or gallery:</string>
@@ -18,7 +18,15 @@
     <string name="todo">TODO</string>
     <string name="skip_intro">SKIP INTRO</string>
     <string name="next">Next</string>
-    <string name="tomato">Since water movement spreads the bacteria from diseased to healthy plants, workers and farm equipment should be kept out of fields when fields are wet, because the disease will spread readily under wet conditions. The traditional recommendation for bacterial spot control consists of copper and maneb or mancozeb.</string>
+<!--    <string name="tomato">It is more frequent. Few remedies are next time use more disease resistant varieties. Remove infected plants. Follow crop rotations. Apply Fungicides: Consult agrochemist for the same. Practive good crop management and monitor your crops.</string>-->
+    <string name="tomato">
+    It is more frequent. Few remedies are:
+    \n- Next time use more disease-resistant varieties.
+    \n- Remove infected plants.
+    \n- Follow crop rotations.
+    \n- Apply Fungicides: Consult agrochemist for the same.
+    \n- Practice good crop management and monitor your crops.
+    </string>
     <string name="tomato1">To treat this disease you can prune or stake plants to improve air circulation and reduce fungal problems,make sure to disinfect your pruning shears (one part bleach to 4 parts water) after each cut, and keep the soil under plants clean and free of garden debris</string>
     <string name="tomato2">To treat this disease you can try plant resistant cultivars when available, remove volunteers from the garden prior to planting and space plants far enough apart to allow for plenty of air circulation, Water in the early morning hours, or use soaker hoses, to give plants time to dry out during the day and avoid overhead irrigation</string>
     <string name="tomato3">Management practices for leaf mold include managing humidity, changing the location where tomatoes are grown, selecting resistant or less susceptible varieties, applying fungicides, and removing tomato plant debris after last harvest or incorporating it deeply into the soil</string>
@@ -27,9 +35,25 @@
     <string name="tomato6">To treat this disease do not plant new crops next to older ones that have the disease, check all seedlings in the nursery, and throw away any with leaf spots, Keep plots free from weeds, as some may be hosts of the fungus, and do not use overhead irrigation, it will create conditions for spore production and infection</string>
     <string name="tomato7">There are no chemicals cure a virus-infected plant, so try purchase virus-free plants, remove all weeds since these may harbor TMV, remove all crop debris from benches and the greenhouse structure, Set aside plants with the above symptoms and obtain a diagnosis, and discard infected plants</string>
     <string name="tomato8">To treat this disease use only virus-and whitefly-free tomato and pepper transplants. Transplants should be treated with Capture (bifenthrin) or Venom (dinotefuran) for whitefly adults and Oberon for eggs and nymphs. Imidacloprid or thiamethoxam should be used in transplant houses at least seven days before shipping.</string>
-    <string name="potato">To treat this disease, similar to the tomato early blight, you can prune or stake plants to improve air circulation and reduce fungal problems,make sure to disinfect your pruning shears (one part bleach to 4 parts water) after each cut, and keep the soil under plants clean and free of garden debris</string>
+<!--    <string name="potato">To treat this disease, similar to the tomato early blight, you can prune or stake plants to improve air circulation and reduce fungal problems,make sure to disinfect your pruning shears (one part bleach to 4 parts water) after each cut, and keep the soil under plants clean and free of garden debris</string>-->
+    <string name="potato"> It is fungal disease. Few remedies are:
+    \n- Use disease resistant varieties.
+    \n- Remove infected plants.
+    \n- Follow crop rotations.
+    \n- Apply fungicides: Contact agrochemist.
+    \n- Practice good crop management and monitor your crops.
+    \n- Monitor your crops.
+    \n - Consult agriculture expert</string>
+    <string name="pepper"> It is viral disease. Few remedies are:
+    \n- Use disease free planting material.
+    \n- Remove infected plants.
+    \n- Follow crop rotations.
+    \n- Control aphids, they transmit the disease
+    \n- Practice good crop management and monitor your crops.
+    \n- Monitor your crops. </string>
+
     <string name="potato1">To treat this disease try to apply a copper based fungicide (2 oz/ gallon of water) every 7 days or less, following heavy rain or when the amount of disease is increasing rapidly. If possible, time applications so that at least 12 hours of dry weather follows application</string>
-    <string name="pepper">You can minimize problems with bacterial spot by following these tips: Select resistant varieties. Purchase disease-free seed and transplants. Treat seeds by soaking them for 2 minutes in a 10% chlorine bleach solution (1 part bleach; 9 parts water).</string>
+<!--    <string name="pepper">You can minimize problems with bacterial spot by following these tips: Select resistant varieties. Purchase disease-free seed and transplants. Treat seeds by soaking them for 2 minutes in a 10% chlorine bleach solution (1 part bleach; 9 parts water).</string>-->
     <string name="corn">to treat this disease try to scout corn to detect common rust early, monitor disease development, crop growth stage and weather forecast, spply a foliar fungicide if: rust is spreading rapidly or likely to spread and yield may be affected, and if disease exceeds threshold established by your state extension plant pathologist</string>
     <string name="corn1">Treating northern corn leaf blight involves using fungicides. For most home gardeners this step isn’t needed, but if you have a bad infection, you may want to try this chemical treatment. The infection usually begins around the time of silking, and this is when the fungicide should be applied.</string>
     <string name="corn2">To treat this disease you can reduce thatch layer, avoid using post-emergent weed killers on the lawn while the disease is active, Avoid medium to high nitrogen fertilizer levels, and Mow at the proper height and only mow when the grass is dry</string>
